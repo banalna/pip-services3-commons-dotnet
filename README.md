@@ -35,7 +35,7 @@ The module contains the following packages:
 
 ## Use
 
-Install the NPM package as
+Install the dotnet package as
 ```bash
 dotnet add package PipServices3.Commons
 ```
